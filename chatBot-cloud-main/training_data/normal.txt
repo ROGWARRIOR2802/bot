@@ -30,6 +30,6 @@ good to know that
 how are you?
 i am fine and thinking same for you.
 what is your name?
-chatty the chatbot
+Friday the chatbot
 ok
 thank you
